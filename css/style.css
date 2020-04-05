@@ -35,12 +35,12 @@ h1{
     background: rgba(51, 51, 51, 0.6);
     text-shadow: 0 0 0.5rem #333;
 }
-/* 
+
 .key:hover{
     cursor: pointer;
     border-color: rgb(52, 221, 9);
     box-shadow: 0 0 1rem rgb(52, 221, 9);
-} */
+}
 
 .playing {
     transform: scale(1.1);
